@@ -1,39 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Bailey Atkinson",
+    "label": "Copywriter",
     "picture": "https://baileyatkinson.github.io/images/bailey.jpeg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "baileylynnatkinson@gmail.com",
+    "website": "https://baileyatkinson.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "city": "Hong Kong",
+      "countryCode": "HK",
     },
     "profiles": [
       {
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "http://baileyatkinson.github.com/"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "bailey atkinson",
+        "url": "https://www.linkedin.com/in/bailey-atkinson-615866153/"
       }
     ]
   },
