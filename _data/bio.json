@@ -78,6 +78,18 @@
       ]
     }
   ],
+    "education": [
+    {
+      "institution": "The Universirty of Western Ontario",
+      "area": "Women's Studies and Feminist Research, and Film Theory and Criticism (2016)",
+      "studyType": "B.A.",
+      "startDate": "2010-08-01",
+      "endDate": "2016-04-01",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
   "work": [
     {
       "company": "UH Manoa Board of Publications",
