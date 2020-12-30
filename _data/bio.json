@@ -27,9 +27,7 @@
   "interests": [
     {
       "name": "Writing",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
+      "keywords": [        
       ]
     },
     {
