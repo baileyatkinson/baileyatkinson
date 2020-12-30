@@ -55,14 +55,13 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Softwear",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Microsoft Word, Excel and Powerpoint",
+        "Adobe Photoshop and Reader",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Wordpress",
       ]
     }
   ],
